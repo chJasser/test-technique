@@ -1,4 +1,4 @@
-# MERN Stack Invoicing Application
+# MERN Stack Todo list Application
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
 
 ## Key Features
